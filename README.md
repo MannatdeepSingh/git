@@ -1,4 +1,4 @@
-# SCMF
+ HEllomEveryone # SCMF
 
 ## Description
 SCMF (Short description of what the project does).
